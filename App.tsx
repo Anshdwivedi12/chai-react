@@ -11,14 +11,14 @@ import { DataUploadPanel } from './components/DataUploadPanel';
 import { RasterManager } from './components/RasterManager';
 
 // Import new modular components
-import { DataUpload } from './src/components/DataUpload';
-import { DataManagement } from './src/components/DataManagement';
-import { MyDatasets } from './src/components/MyDatasets';
-import { LeafletBasemaps } from './src/components/LeafletBasemaps';
-import { VectorOperations } from './src/components/VectorOperations';
-import { SmartFiltering } from './src/components/SmartFiltering';
-import { AdvancedQueries } from './src/components/AdvancedQueries';
-import { ProfessionalDashboard } from './src/components/ProfessionalDashboard';
+import { DataUpload } from './components/DataUpload';
+import { DataManagement } from './components/DataManagement';
+import { MyDatasets } from './components/MyDatasets';
+import { LeafletBasemaps } from './components/LeafletBasemaps';
+import { VectorOperations } from './components/VectorOperations';
+import { SmartFiltering } from './components/SmartFiltering';
+import { AdvancedQueries } from './components/AdvancedQueries';
+import { ProfessionalDashboard } from './components/ProfessionalDashboard';
 
 // Import leaflet-draw dynamically to avoid optimization issues
 import 'leaflet-draw/dist/leaflet.draw.css';
